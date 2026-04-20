@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  @apply bg-cream font-body text-ink antialiased;
+}
+
+a,
+button {
+  @apply transition-all duration-200;
+}
+
+::selection {
+  @apply bg-gold/60 text-ink;
+}
