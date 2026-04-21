@@ -1,4 +1,4 @@
-# ChefThai Booking Platform
+# Chef Thai Booking Platform
 
 A premium, mobile-first catering and personal chef booking application built with Next.js, Tailwind CSS, Prisma, PostgreSQL, JWT-based cookie auth, and Stripe checkout hooks.
 
