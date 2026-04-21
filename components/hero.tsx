@@ -32,7 +32,7 @@ export function Hero() {
               className="h-[420px] rounded-[2rem] bg-cover bg-center"
               style={{
                 backgroundImage:
-                  "url('https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=1200&q=80')"
+                  "url('https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=1200&q=80')
               }}
             />
           </div>
