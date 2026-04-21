@@ -6,7 +6,7 @@ import { SiteHeader } from "@/components/site-header";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Ember & Thyme | Catering & Personal Chef Booking",
+  title: "Chef Thai | Catering & Personal Chef Booking",
   description: "Premium meal prep, catering, and private chef booking platform."
 };
 
